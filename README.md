@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on 3D asset creation
 - 📫 How to reach me: daniel.mktb@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like coocking more than I like eating.
+- ⚡ Fun fact: I like coocking more than I like eating.Or am I
+  
 
 <!---
 DanielMktb/DanielMktb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
